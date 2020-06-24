@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani512-input-index.xsd">
+  <unit type="JOURNAL-ISSUE">
+    <unit-info>
+      <unit-id>14894996</unit-id>
+      <order-id>36051937</order-id>
+      <parcel-id>none</parcel-id>
+      <supplier-id>5</supplier-id>
+      <timestamp>2020-01-29T16:30:34Z</timestamp>
+    </unit-info>
+    <unit-content>
+      <bibrecord>
+        <item-info>
+          <status state="new" stage="S300" />
+          <itemidlist>
+            <car-id>921424282</car-id>
+            <itemid idtype="PUI">2003507972</itemid>
+          </itemidlist>
+        </item-info>
+        <head>
+          <abstracts>
+            <abstract original="n">
+              <publishercopyright>Copyright Embase</publishercopyright>
+              <ce:para>Regorafenib in Combination with First-Line Chemotherapy for Metastatic Esophagogastric Cancer</ce:para>
+            </abstract>
+          </abstracts>
+          <enhancement status="002" type="8">
+            <descriptorgroup>
+              <descriptors controlled="y" type="MED">
+                <descriptor>
+                  <mainterm weight="a">metastasis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a">cancer chemotherapy</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a">esophagus cancer</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="a">stomach cancer</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">progression free survival</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">overall survival</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">treatment response</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">disease control</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">high throughput sequencing</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">open study</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">good clinical practice</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">computer assisted tomography</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">follow up</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">drug efficacy</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">hematemesis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">genetic analysis</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">CDKN2A gene</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">CCND1 gene</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">CCNE1 gene</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">RB1 gene</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">phase 2 clinical trial</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">human</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">controlled study</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">clinical article</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">male</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">female</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">adult</mainterm>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">aged</mainterm>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="y" type="TRP">
+                <descriptor>
+                  <mainterm weight="a">regorafenib</mainterm>
+                  <link>minimum drug dose</link>
+                  <sublink>160</sublink>
+                  <subsublink>mg/day</subsublink>
+                  <sublink>80</sublink>
+                  <subsublink>mg/day</subsublink>
+                  <link>maximum drug dose</link>
+                  <sublink>160</sublink>
+                  <subsublink>mg/day</subsublink>
+                  <link>dosage schedule</link>
+                  <sublink>multiple cycle treatment</sublink>
+                  <sublink>drug dose reduction</sublink>
+                  <link>drug combination</link>
+                  <sublink>folinate calcium</sublink>
+                  <sublink>oxaliplatin</sublink>
+                  <sublink>fluorouracil</sublink>
+                  <link>adverse drug reaction - disease</link>
+                  <sublink>leukopenia</sublink>
+                  <sublink>diarrhea</sublink>
+                  <sublink>vomiting</sublink>
+                  <sublink>anemia</sublink>
+                  <sublink>hand foot syndrome</sublink>
+                  <sublink>mucosa inflammation</sublink>
+                  <sublink>anorexia</sublink>
+                  <sublink>neuropathy</sublink>
+                  <sublink>nausea</sublink>
+                  <sublink>thrombocytopenia</sublink>
+                  <sublink>fatigue</sublink>
+                  <sublink>hypertransaminasemia</sublink>
+                  <sublink>hematemesis</sublink>
+                  <sublink>hypertension</sublink>
+                  <sublink>neutropenia</sublink>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                  <link>clinical trial</link>
+                  <link>special situation for pharmacovigilance</link>
+                  <sublink>aged</sublink>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">folinate calcium</mainterm>
+                  <link>drug combination</link>
+                  <sublink>oxaliplatin</sublink>
+                  <sublink>fluorouracil</sublink>
+                  <sublink>regorafenib</sublink>
+                  <link>dosage schedule</link>
+                  <sublink>multiple cycle treatment</sublink>
+                  <link>minimum drug dose</link>
+                  <sublink>400</sublink>
+                  <subsublink>mg/m&lt;sup&gt;2&lt;/sup&gt;</subsublink>
+                  <link>maximum drug dose</link>
+                  <sublink>400</sublink>
+                  <subsublink>mg/m&lt;sup&gt;2&lt;/sup&gt;</subsublink>
+                  <link>route of drug administration</link>
+                  <sublink>intravenous drug administration</sublink>
+                  <link>adverse drug reaction - disease</link>
+                  <sublink>leukopenia</sublink>
+                  <sublink>diarrhea</sublink>
+                  <sublink>vomiting</sublink>
+                  <sublink>anemia</sublink>
+                  <sublink>hand foot syndrome</sublink>
+                  <sublink>mucosa inflammation</sublink>
+                  <sublink>anorexia</sublink>
+                  <sublink>neuropathy</sublink>
+                  <sublink>nausea</sublink>
+                  <sublink>thrombocytopenia</sublink>
+                  <sublink>fatigue</sublink>
+                  <sublink>hypertransaminasemia</sublink>
+                  <sublink>hematemesis</sublink>
+                  <sublink>hypertension</sublink>
+                  <sublink>neutropenia</sublink>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                  <link>clinical trial</link>
+                  <link>special situation for pharmacovigilance</link>
+                  <sublink>aged</sublink>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">oxaliplatin</mainterm>
+                  <link>drug combination</link>
+                  <sublink>folinate calcium</sublink>
+                  <sublink>fluorouracil</sublink>
+                  <sublink>regorafenib</sublink>
+                  <link>dosage schedule</link>
+                  <sublink>multiple cycle treatment</sublink>
+                  <link>minimum drug dose</link>
+                  <sublink>85</sublink>
+                  <subsublink>mg/m&lt;sup&gt;2&lt;/sup&gt;</subsublink>
+                  <link>maximum drug dose</link>
+                  <sublink>85</sublink>
+                  <subsublink>mg/m&lt;sup&gt;2&lt;/sup&gt;</subsublink>
+                  <link>route of drug administration</link>
+                  <sublink>intravenous drug administration</sublink>
+                  <link>adverse drug reaction - disease</link>
+                  <sublink>leukopenia</sublink>
+                  <sublink>diarrhea</sublink>
+                  <sublink>vomiting</sublink>
+                  <sublink>anemia</sublink>
+                  <sublink>hand foot syndrome</sublink>
+                  <sublink>mucosa inflammation</sublink>
+                  <sublink>anorexia</sublink>
+                  <sublink>neuropathy</sublink>
+                  <sublink>nausea</sublink>
+                  <sublink>thrombocytopenia</sublink>
+                  <sublink>fatigue</sublink>
+                  <sublink>hypertransaminasemia</sublink>
+                  <sublink>hematemesis</sublink>
+                  <sublink>hypertension</sublink>
+                  <sublink>neutropenia</sublink>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                  <link>clinical trial</link>
+                  <link>special situation for pharmacovigilance</link>
+                  <sublink>aged</sublink>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">fluorouracil</mainterm>
+                  <link>drug combination</link>
+                  <sublink>folinate calcium</sublink>
+                  <sublink>oxaliplatin</sublink>
+                  <sublink>regorafenib</sublink>
+                  <link>dosage schedule</link>
+                  <sublink>multiple cycle treatment</sublink>
+                  <sublink>continuous infusion</sublink>
+                  <link>maximum drug dose</link>
+                  <sublink>400</sublink>
+                  <subsublink>mg/m&lt;sup&gt;2&lt;/sup&gt;</subsublink>
+                  <sublink>2400</sublink>
+                  <subsublink>mg\m&lt;sup&gt;2&lt;/sup&gt;/day</subsublink>
+                  <link>minimum drug dose</link>
+                  <sublink>400</sublink>
+                  <subsublink>mg/m&lt;sup&gt;2&lt;/sup&gt;</subsublink>
+                  <sublink>2400</sublink>
+                  <subsublink>mg\m&lt;sup&gt;2&lt;/sup&gt;/day</subsublink>
+                  <link>route of drug administration</link>
+                  <sublink>intravenous drug administration</sublink>
+                  <link>adverse drug reaction - disease</link>
+                  <sublink>leukopenia</sublink>
+                  <sublink>diarrhea</sublink>
+                  <sublink>vomiting</sublink>
+                  <sublink>anemia</sublink>
+                  <sublink>hand foot syndrome</sublink>
+                  <sublink>mucosa inflammation</sublink>
+                  <sublink>anorexia</sublink>
+                  <sublink>neuropathy</sublink>
+                  <sublink>nausea</sublink>
+                  <sublink>thrombocytopenia</sublink>
+                  <sublink>fatigue</sublink>
+                  <sublink>hypertransaminasemia</sublink>
+                  <sublink>hematemesis</sublink>
+                  <sublink>hypertension</sublink>
+                  <sublink>neutropenia</sublink>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                  <link>clinical trial</link>
+                  <link>special situation for pharmacovigilance</link>
+                  <sublink>aged</sublink>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">biological marker</mainterm>
+                  <link>endogenous compound</link>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">trastuzumab</mainterm>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">protein p53</mainterm>
+                  <link>endogenous compound</link>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">K ras protein</mainterm>
+                  <link>endogenous compound</link>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">epidermal growth factor receptor 2</mainterm>
+                  <link>endogenous compound</link>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">epidermal growth factor receptor 3</mainterm>
+                  <link>endogenous compound</link>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">taxane derivative</mainterm>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">irinotecan</mainterm>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                </descriptor>
+                <descriptor>
+                  <mainterm weight="b">ramucirumab</mainterm>
+                  <link>drug therapy</link>
+                  <sublink>metastasis</sublink>
+                  <sublink>esophagus cancer</sublink>
+                  <sublink>stomach cancer</sublink>
+                </descriptor>
+              </descriptors>
+              <descriptors controlled="n" type="CTN">
+                <descriptor>
+                  <mainterm>NCT01913639</mainterm>
+                  <link>ClinicalTrials.gov</link>
+                </descriptor>
+              </descriptors>
+            </descriptorgroup>
+            <classificationgroup>
+              <classifications type="EMCLASS">
+                <classification>
+                  <classification-code>16</classification-code>
+                </classification>
+                <classification>
+                  <classification-code>29</classification-code>
+                </classification>
+                <classification>
+                  <classification-code>37</classification-code>
+                </classification>
+                <classification>
+                  <classification-code>48</classification-code>
+                </classification>
+                <classification weight="+">
+                  <classification-code>38.43</classification-code>
+                </classification>
+              </classifications>
+            </classificationgroup>
+          </enhancement>
+        </head>
+      </bibrecord>
+    </unit-content>
+  </unit>
+</units>
