@@ -27,7 +27,7 @@
     "frappe-gantt": "^0.3",
     "jquery-maskmoney": "^3.0.2",
     "jquery-slimscroll": "^1.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "pace-js": "^1.0.2",
     "pusher-js": "^4.4.0",
     "textarea-autosize": "^0.4",
